@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1402719082 source:c:\jogof-rias\estrutura.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<cstdlib>
+	<ctime>
+	"Estrutura.h"
+	"Eventos.h"
+
+1402719082 c:\jogof-rias\estrutura.h
+
+1402719082 source:c:\jogof-rias\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<cstdlib>
+	<ctime>
+	"Estrutura.h"
+	"Eventos.h"
+
+1402718712 c:\jogof-rias\eventos.h
+
+1402718901 source:c:\jogof-rias\eventos.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<cstdlib>
+	<ctime>
+	"Estrutura.h"
+	"Eventos.h"
+
